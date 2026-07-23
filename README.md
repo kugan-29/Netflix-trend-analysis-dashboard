@@ -8,7 +8,7 @@
 
 Exploratory Data Analysis (EDA) on 8,000+ Netflix titles to uncover genre popularity and content growth trends across countries over the last decade.
 
-🔗 **Live Demo / Notebook:** [Add your demo link here]
+🔗 **Live Demo:**[View Dashboard] ([Add your demo link here](https://kugan-29.github.io/Netflix-trend-analysis-dashboard/))
 
 ---
 
