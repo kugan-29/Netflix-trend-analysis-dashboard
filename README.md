@@ -39,12 +39,6 @@ Netflix titles dataset (8,000+ records) including title, genre, country, release
 2. Install dependencies: `pip install pandas matplotlib jupyter`
 3. Run the notebook: `jupyter notebook netflix_analysis.ipynb`
 
-## 📸 Screenshots / Visuals
-
-```
-![Genre Distribution](screenshots/genre-distribution.png)
-![Content Growth by Country](screenshots/content-growth.png)
-```
 
 ## 📈 Key Insights
 
